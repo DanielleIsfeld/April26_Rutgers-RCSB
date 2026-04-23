@@ -5,8 +5,23 @@ codeBMB is an NSF supported initiative to prepare faculty members to teach stude
 ## Before the webinar
 
 1.  Sign up for a Google account
+2.  Review the GitHub repository and topics
 
 ## Topic schedule
+
+| Time (Eastern) | Topic | Video links (all to come) |
+|----|----|----|
+| **1:00** | **Intro** |  |
+| **1:10** | **Pedagogical Basis of Coding** |  |
+| **1:30** | **GitHub - forking repositories** |  |
+| **2:00** | **Intro to Colab and Google Drive** |  |
+| **2:30** | **Break** |  |
+| **2:45** | **Basics of Python Syntax: Variables, Data structures, Loops and Logic** |  |
+| **3:15** | **Break** |  |
+| **3:30** | **Pandas and Plotting** |  |
+| **4:00** | **Break** |  |
+| **4:15** | **Linear Regression (protein curve)** |  |
+| **4:45** | **Recap** |  |
 
 ## Videos from the webinar
 
